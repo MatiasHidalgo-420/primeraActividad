@@ -93,8 +93,7 @@ h2{
 
 }
 .title1:hover{
-    color:
-    #00ff44;
+    color:#00ff44;
     background-color: black;
     
 }
@@ -115,4 +114,7 @@ h2{
     background-image: url(img/CHARLY.jpg);
     border-radius: 15px;
     border: 10px solid purple
+}
+.a{
+    padding-bottom: 23px;
 }
