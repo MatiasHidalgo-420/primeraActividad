@@ -67,7 +67,7 @@ section{
     width: 250px;
     height: 250px;
     border-radius: 10px;
-    box-shadow: 1.5px 3px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 .parrafos{
     display: flex;
