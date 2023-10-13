@@ -107,6 +107,7 @@ h2{
     background-color: gray;
     margin-bottom: 120px;
     margin-top: 70px;
+    box-shadow: 7px 8px 12px 9px rgba(0, 0, 0, 0.5);
 }
 #diferente:hover{
     width: 650px;
